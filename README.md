@@ -6,7 +6,7 @@ _An open source offering for migrating playlists between different streaming ser
 
 ## How to use?
  ```sh
- $ git clone git@github.com:elirankon/playlist-converter.git
+ $ git clone git@github.com:eliankon/playlist-converter.git
  $ cd playlist-converter
  $ npm i
  $ npm start
